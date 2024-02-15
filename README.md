@@ -1,6 +1,6 @@
 ### Hi, I'm Dilna👋
 
-Cybersecurity Graduate - University of Chester
+Cybersecurity Graduate - University of Chester/n
 Bachelor in Software Engineering - Sichuan University
 
 <!--
