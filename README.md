@@ -1,5 +1,5 @@
 # I'm DIlna
-## I am Cybersecurity Graduate
+## Cybersecurity Graduate
 ![I am a Cybersecurity Graduate](https://github.com/DilnaShaji/DilnaShaji/blob/main/Dilna%20Shaji.jpg)
 
 Accomplished Master's student, pursuing cybersecurity, eager to apply knowledge and gain practical experience
