@@ -1,8 +1,9 @@
 ### Hi, I'm Dilna👋
 
+Cybersecurity Graduate, Bachelor in Software Engineering
 <!--
 **DilnaShaji/DilnaShaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Cybersecurity Graduate, Bachelor in Software Engineering
+
 
 
 - 🔭 I’m currently working on NIST Frameworks...
