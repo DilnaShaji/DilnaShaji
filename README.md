@@ -1,12 +1,19 @@
-### Hi there 👋, I'm DIlna
-#### I am Cybersecurity Graduate
-![I am Cybersecurity Graduate](https://github.com/DilnaShaji/DilnaShaji/blob/main/Dilna%20Shaji.jpg)
+# I'm DIlna
+## I am Cybersecurity Graduate
+![I am a Cybersecurity Graduate](https://github.com/DilnaShaji/DilnaShaji/blob/main/Dilna%20Shaji.jpg)
 
-Accomplished Master's student, pursuing cybersecurity, eager to apply knowledge and gain practical experience. Experienced working in team environments from previous roles and studies. 
+Accomplished Master's student, pursuing cybersecurity, eager to apply knowledge and gain practical experience
 
-Skills: Technical Analysis Reporting Problem solving
+## Skills
 
-- 🔭 I’m currently working on this page. 
+💻 Technical Analysis
+🔚 Problem-solving
+📈 Reporting
+
+## Learning
+GRC Master Class - Knowledgeable on NIST Cybersecurity Framework and how the Identify, Protect, Detect, Respond, and Recover categories comprise and facilitate an information security program
+# NIST Cybersecurity Framework
+
 
 
 
