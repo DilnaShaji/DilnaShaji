@@ -1,17 +1,13 @@
-### Hi, I'm Dilna👋
+### Hi there 👋, I'm DIlna
+#### I am Cybersecurity Graduate
+![I am Cybersecurity Graduate](https://github.com/DilnaShaji/DilnaShaji/blob/main/Dilna%20Shaji.jpg)
 
-Cybersecurity Graduate - University of Chester
+Accomplished Master's student, pursuing cybersecurity, eager to apply knowledge and gain practical experience. Experienced working in team environments from previous roles and studies. 
+
+Skills: Technical Analysis Reporting Problem solving
+
+- 🔭 I’m currently working on this page. 
 
 
-Bachelor in Software Engineering - Sichuan University
-
-<!--
-**DilnaShaji/DilnaShaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
-- 🔭 I’m currently working on NIST Frameworks...
-- 🌱 I’m currently learning GRC Master Class, Simply Cyber...
--  Knowledgeable on NIST Cybersecurity Framework and how the Identify, Protect, Detect, Respond, and Recover categories comprise and facilitate an information security program
-
--->
