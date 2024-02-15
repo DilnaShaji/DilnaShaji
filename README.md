@@ -1,4 +1,4 @@
-# I'm DIlna
+# I'm DILNA
 ## Cybersecurity Graduate
 ![I am a Cybersecurity Graduate](https://github.com/DilnaShaji/DilnaShaji/blob/main/Dilna%20Shaji.jpg)
 
