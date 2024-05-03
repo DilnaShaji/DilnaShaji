@@ -9,10 +9,12 @@ Accomplished Master's student, pursuing cybersecurity, eager to apply knowledge 
 💻 Technical Analysis
 🔚 Problem-solving
 📈 Reporting
-
-## Learning
-GRC Master Class - Knowledgeable on NIST Cybersecurity Framework and how the Identify, Protect, Detect, Respond, and Recover categories comprise and facilitate an information security program
-### NIST Cybersecurity Framework
+💻 Cybersecurity Analysis 
+📈 Risk Management 
+💻 Information Security Policy Development 
+🔚 Team Leadership 
+🔚 Communication 
+ 
 
 
 
